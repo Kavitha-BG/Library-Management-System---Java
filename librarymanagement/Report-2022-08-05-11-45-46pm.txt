@@ -1,0 +1,10 @@
+----------------------------------------------
+Book Code = j123
+Book Name = java
+Author = john
+Subject = cs
+Issue Status = Available
+Issued to = NotIssued
+Issued Date = null
+Return Date = null
+----------------------------------------------
